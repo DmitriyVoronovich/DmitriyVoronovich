@@ -16,4 +16,6 @@
   ---
   
   ### :technologist: About Me :
+ Hi there! I'm Dmitriy. I'm a Frontend Developer from Belarus.
 
+ I am a Front-end developer with 2+ year experience in creating SPA (Single Page Applications). I work with technologies such as React, TypeScript, Redux (RTK), and other related libraries. I am constantly improving my skills. I want to expand them with new technologies, like Node.js.

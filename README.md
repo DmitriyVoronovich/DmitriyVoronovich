@@ -11,7 +11,9 @@
   <div>
     <img src="https://komarev.com/ghpvc/?username=DmitriyVoronovich&style=flat-square&color=blue" alt=""/>
   </div>
+  
   ---
-  ### :woman_technologist: About Me :
+  
+  ### :technologist: About Me :
 </div>
 
